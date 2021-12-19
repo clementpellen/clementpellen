@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello 👋
 
-<!--
-**clementpellen/clementpellen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Vous trouverez ici les projets que j'ai pu mener seul ou en équipes cette année ! 😄
 
-Here are some ideas to get you started:
+Mon GitHub est principalement composé de mes projets d'IoT : 
+- système IoT de gestion d'usine
+- système IoT de connexion Bluetooth
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+J'ai également eu l'opportunité de tavailler sur des projets Web au cours de mes études : majeure Objets Connectés, Réseaux & Services. 
+Ces codes sont accessibles sur mon GitHub
+
+Si vous souhaitez me contacter :
+- mail : clement.pellen@edu.ece.fr
+- Linkedin : https://www.linkedin.com/in/cl%C3%A9ment-pellen-94b899192/
+
+Très bonne visite 🏠
